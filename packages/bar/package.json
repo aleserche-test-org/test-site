@@ -1,6 +1,6 @@
 {
   "name": "@aleserche-test-org/bar",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "repository": "git@github.com:aleserche-test-org/test-site.git",
   "main": "dist/index.js",
