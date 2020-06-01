@@ -19,7 +19,7 @@
     "postpack": "pubflow restore"
   },
   "dependencies": {
-    "@aleserche-test/bar": "0.15.0"
+    "@aleserche-test-org/bar": "0.0.0"
   },
   "devDependencies": {
     "@monstrs/publish-flow": "^0.1.3"
