@@ -94,3 +94,13 @@ jobs:
         if: >
           github.event.pull_request.merged == true &&
           github.event.pull_request.base.ref == 'master'
+
+      - uses: mr-smithers-excellent/docker-build-push@v3
+        with:
+          image: github-repo/image-name
+          registry: docker.pkg.github.com
+          # githubOrg: override-org # optional
+          username: ${{ github.actor }}
+          password: ${{ secrets.GH_TOKEN }}
+          dockerfile: ./Dockerfile
+          directory: ./
