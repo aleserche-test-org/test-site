@@ -97,7 +97,7 @@ jobs:
 
       - uses: mr-smithers-excellent/docker-build-push@v3
         with:
-          image: github-repo/image-name
+          image:  aleserche-test-org/b-app
           registry: docker.pkg.github.com
           # githubOrg: override-org # optional
           username: ${{ github.actor }}
