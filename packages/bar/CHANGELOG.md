@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/aleserche-test-org/test-site/compare/@aleserche-test-org/bar@0.2.0...@aleserche-test-org/bar@0.3.0) (2020-07-02)
+
+
+### Features
+
+* new const ([2a9a3df](https://github.com/aleserche-test-org/test-site/commit/2a9a3dfdf40efa4e5e84aece7147797db89e843a))
+
+
+
+
+
 # [0.2.0](https://github.com/aleserche-test-org/test-site/compare/@aleserche-test-org/bar@0.1.0...@aleserche-test-org/bar@0.2.0) (2020-06-01)
 
 
